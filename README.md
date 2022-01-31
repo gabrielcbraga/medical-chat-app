@@ -1,6 +1,6 @@
 # In dev project
 
-# Blog
+# Medical Chat
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -13,9 +13,9 @@ This is a medical chat created using React.JS, fully customizable, drop and use!
 ## Features
 
 - Created for easly use
-- CMS Panel (GraphCMS)
-- Comments
-- Modern design and clean code!
+- Group and private messages
+- Unique account for user
+- SMS verification for new accounts!
 
 ## Tech
 
