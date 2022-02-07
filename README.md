@@ -1,5 +1,3 @@
-# In dev project
-
 # Medical Chat
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
@@ -8,7 +6,7 @@ This is a medical chat created using React.JS, fully customizable, drop and use!
 
 ## View
 
-### [Link](https://localhost:5000)
+### [Link](https://medical-chat-app-gb.netlify.app/)
 
 ## Features
 
@@ -38,6 +36,22 @@ npm i
 For production environments...
 
 ```sh
+create account in getstream.io
+create a new app
+create a new .env file in server folder
+get the credentials in getstream.io, and paste:
+
+STREAM_APP_ID = (ID)
+STREAM_API_KEY = (KEY)
+STREAM_API_SECRET = (API SECRET)
+
+create account in twilio.com
+create a new sms app
+get the credentials in twilio.com, and paste:
+
+TWILIO_ACCOUNT_SID = (SID)
+TWILIO_AUTH_TOKEN = (AUTH TOKEN)
+TWILIO_MESSAGING_SERVICE_SID = (SERVICE SID)
 ```
 
 ## Speak with me
